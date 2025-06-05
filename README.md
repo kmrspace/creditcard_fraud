@@ -12,13 +12,13 @@ Enterprises are being severely affected by fraudsters. Losses owing to fraud hav
  
 The report summarises how existing individuals and businesses are more susceptible to fraud than their predecessors due to:
 
-Increasing preference of individuals towards unconventional modes of payment, with lesser adherence to common standards;
+    * Increasing preference of individuals towards unconventional modes of payment, with lesser adherence to common standards;
 
-Greater complexity of processes and systems, which makes it easier for fraudsters to escape the process without any trace;
+    * Greater complexity of processes and systems, which makes it easier for fraudsters to escape the process without any trace;
 
-Increase in digital transactions, with less in-person interaction, making it difficult for victims to identify fraudsters; and
+    * Increase in digital transactions, with less in-person interaction, making it difficult for victims to identify fraudsters; and
 
-Rapid change in businesses, with necessary safety and control protocol struggling to catch up
+    * Rapid change in businesses, with necessary safety and control protocol struggling to catch up
 
 Each of these factors gives you hints regarding what enterprises can do to reduce the frequency and severity of fraudulent activities. In this session, you will learn how enterprises aim to detect fraudulent transactions, with a special focus on fraudulent credit card transactions.
 
