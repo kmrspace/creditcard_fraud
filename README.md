@@ -1,4 +1,4 @@
-# creditcard fraud
+# Creditcard Fraud Prevention Case Study
 
 Fraudulent activities percolate across industries and business lines, and affect almost every enterprise and individual. Such activities could be described as business transactions that are perpetrated by malicious entities that appear genuine.
 
